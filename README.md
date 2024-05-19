@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @myxit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning benefits GO development over Java
-- 💞️ I’m looking to starting a new role as developer whcih could commit at the Business <-> Development junction in a company based in Sweden. 
-- 📫 How to reach me joakimvon@duck.com
+- 👋 Hi, I’m Alex
+- 👀 I’m interested in writting software that solves real problems
+- 🌱 I’m currently learning python for sake of smooth diving in Data Science
+- 💞️ I’m looking to a fun project where I could learn myself in 👆 or python/go
+- 📫 How to reach me <nr1pko35@duck.com>
 
 <!---
 myxit/myxit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
